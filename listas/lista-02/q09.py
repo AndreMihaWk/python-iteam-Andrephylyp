@@ -1,0 +1,14 @@
+# Lista 02 — Questão 09: Encapsulamento e Propriedades
+# Aluno: (seu nome)
+# Data:  (data)
+
+# ── Enunciado ───────────────────────────────────────────────────────────────
+# Em q09.py — classe Produto com:
+#   1. __preco via @property com validação (preço > 0)
+#   2. __estoque com getter, repor(qtd) e vender(qtd) — ValueError se sem estoque
+#   3. __str__ informativo e __repr__ para debug
+# Demonstre: criação, vendas, reposição e tentativa de venda além do estoque.
+# 
+# Em q09_resposta.txt: explique a diferença entre _atributo e __atributo em Python.
+
+# ── Sua solução abaixo ──────────────────────────────────────────────────────

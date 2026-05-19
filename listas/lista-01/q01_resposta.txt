@@ -1,0 +1,23 @@
+Lista 01 — Questão 01: Modelo de Memória
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Analise o código abaixo SEM executar.
+Escreva o valor de cada variável após a última linha.
+Explique por que modificar b (ou não) afeta a.
+Depois execute e verifique sua previsão.
+
+Código:
+  a = [10, 20, 30]
+  b = a
+  b.append(40)
+  c = a.copy()
+  c.append(99)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+

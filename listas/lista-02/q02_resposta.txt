@@ -1,0 +1,18 @@
+Lista 02 — Questão 02: Escolha da Estrutura
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Para cada cenário, indique a estrutura mais adequada (list/tuple/dict/set) e justifique:
+  a) Coordenadas (latitude, longitude) de uma cidade.
+  b) CPFs de usuários que já votaram (verificar duplicatas).
+  c) Código de produto → preço em um catálogo.
+  d) Notas de um aluno ao longo do semestre (pode crescer).
+  e) Dias úteis da semana (valor fixo, usado como chave de dict).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+

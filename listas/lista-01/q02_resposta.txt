@@ -1,0 +1,21 @@
+Lista 01 — Questão 02: Tipos e Conversão
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Para cada linha abaixo, indique: (a) o tipo do resultado e (b) o valor.
+Responda por raciocínio ANTES de executar. Depois confirme no REPL.
+
+  print(type(10 / 2))         # tipo: ?   valor: ?
+  print(type(10 // 2))        # tipo: ?   valor: ?
+  print(int(3.9))             # tipo: ?   valor: ?
+  print(bool([]))             # tipo: ?   valor: ?
+  print(bool("False"))       # tipo: ?   valor: ?
+  print(str(True) == "True") # tipo: ?   valor: ?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+

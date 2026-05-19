@@ -1,0 +1,16 @@
+Lista 02 — Questão 07: Interpretação de Classe
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Leia a classe ContaBancaria do enunciado e responda SEM executar:
+  (a) O que self.saldo representa — por que usar self e não variável local?
+  (b) O que acontece se você chamar conta.sacar(2000) com saldo = 500?
+  (c) Reescreva __str__ para exibir também o número da conta.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+

@@ -1,0 +1,26 @@
+Lista 02 — Questão 04: Escopo — LEGB
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Sem executar, determine o que cada print() imprime.
+Explique a regra de escopo (LEGB) que determina cada resultado.
+
+  x = 'global'
+
+  def externa():
+      x = 'enclosing'
+      def interna():
+          print(x)   # (a) imprime: ?
+      interna()
+      print(x)       # (b) imprime: ?
+
+  externa()
+  print(x)           # (c) imprime: ?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+

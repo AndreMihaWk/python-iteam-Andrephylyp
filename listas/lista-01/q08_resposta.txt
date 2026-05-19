@@ -1,0 +1,15 @@
+Lista 01 — Questão 08: is vs ==
+Aluno: (seu nome)
+Data:  (data)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENUNCIADO:
+Explique a diferença entre os operadores is e == em Python.
+Dê um exemplo onde o resultado de cada um é diferente.
+Em que situação é correto usar is em código profissional?
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUA RESPOSTA:
+
+(escreva aqui com suas próprias palavras)
+
