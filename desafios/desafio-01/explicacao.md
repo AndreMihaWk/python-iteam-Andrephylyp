@@ -1,13 +1,13 @@
-# Explicação — Desafio 01
+// Explicação — Desafio 01
 
-**Aluno:** _(seu nome)_  
-**Data:** _(data)_
+**Aluno:** _(André Phylyp)_  
+**Data:** _(19/05/2026)_
 
 ---
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz. Não copie o enunciado — explique como você pensou na solução.)_
+_Eu pensei a forma mais simple para executar o código. São inserções simples com NOME, IDADE E HOBBIES, com isso o código não precisa ter funcioções complexa com o método de decisões._
 
 ---
 
@@ -15,10 +15,10 @@ _(Descreva em suas palavras o que cada parte do código faz. Não copie o enunci
 
 > Por que é necessário converter o resultado do `input()` antes de calcular a idade? O que acontece se não converter?
 
-_(Sua resposta aqui — use suas próprias palavras. Pode incluir exemplos de código se ajudar a explicar.)_
+_se não fizer a conversão no código de ano para aceita número, ele não vai aceita pois mesmo digitando os valores númerico vai interpreta string_
 
 ---
 
 ## Dificuldades encontradas
 
-_(Opcional: o que foi difícil? O que você pesquisou para resolver?)_
+_foi encontrar palavras para explicar o código_
