@@ -18,7 +18,8 @@ Crie um script `solucao.py` que:
 ## Pergunta Obrigatória (responda em `explicacao.md`)
 
 > Por que é necessário usar `float()` ao capturar peso e altura com `input()`? O que aconteceria se usássemos `int()` para a altura `1.75`?
-
+ 
+ _quando usamos o 'float()' indicamos para 'input()' que receberemos todo os tipos de números REAIS. Se fosse utilizar o 'int()' para indicar Kilo ou Altura iria dar um 'ValueError' pelo o número inserido não ser um ponto flutuante_
 ---
 
 ## Critérios de Avaliação

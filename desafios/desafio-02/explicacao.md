@@ -7,7 +7,7 @@
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz.)_
+_Ele coleta o nome do usuário e peso em Kg e a altura em metros _
 
 ---
 
