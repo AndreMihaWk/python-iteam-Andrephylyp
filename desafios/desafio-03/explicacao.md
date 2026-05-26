@@ -1,13 +1,13 @@
 # Explicação — Desafio 03 — Sistema de Multas
 
-**Aluno:** _(seu nome)_
-**Data:** _(data)_
+**Aluno:** _(André Phylyp)_
+**Data:** _(26/05/2026)_
 
 ---
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz.)_
+_(ele coleta um número real "ponto flutuante" ai esse numero vai esta informando a velocidade do veiculo, quando passar do limite por cada km/h vai ser cobrado R$ 7.00)_
 
 ---
 
@@ -15,7 +15,7 @@ _(Descreva em suas palavras o que cada parte do código faz.)_
 
 > Por que usamos `elif` e não múltiplos `if` separados? Dê um exemplo concreto onde a diferença causaria um resultado errado.
 
-_(Sua resposta aqui — use suas próprias palavras.)_
+_(quando utilizamos só o 'if' em multiplas decisões; ao executamos todos os 'if' e ele atendendo a exigencia do que esta sendo pedido o mesmo será executado. Exemplo: vamos supor que velocidade é 120KM/h e em vez de if e else fosse 3 if; if velocidade >100 o outro if velocidade > 80 o outro if velocidade <=80. Com isso, as duas  primeiras decições sera executada o valor de 120km\h atende a pergunta.   )_
 
 ---
 
