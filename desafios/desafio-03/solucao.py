@@ -1,5 +1,7 @@
 # Desafio 03 — Sistema de Multas
-# Aluno: (seu nome aqui)
-# Data:  (data de entrega)
+# Aluno: (André Phylyp)
+# Data:  (26/05/2026)
 
 # ── Escreva sua solução abaixo ──────────────────────────────────────────────
+
+
