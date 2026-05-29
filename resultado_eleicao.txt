@@ -1,0 +1,17 @@
+=============================================
+           RELATÓRIO DE APURAÇÃO
+=============================================
+Total de eleitores habilitados : 5
+Total de votos registrados     : 2
+Votos válidos                  : 2
+Votos em branco                : 0
+Percentual de participação     : 40.0%
+---------------------------------------------
+RESULTADO POR CANDIDATO (ordem decrescente):
+
+Bruno Lima      |  2 votos (100.0%) ██
+Ana Souza       |  0 votos (  0.0%) 
+Carla Dias      |  0 votos (  0.0%) 
+---------------------------------------------
+>>> VENCEDOR: Bruno Lima (2 votos) <<<
+=============================================
