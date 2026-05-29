@@ -134,6 +134,7 @@ class Urna:
 
     # ---------------- Cadastro ----------------
     def cadastrar_candidato(self, candidato):
+        
         if candidato.numero in self.__candidatos:
             raise ValueError(f"Já existe candidato com o número {candidato.numero}.")
         self.__candidatos[candidato.numero] = candidato
@@ -266,9 +267,9 @@ def carregar_dados():
     urna = Urna()
 
     # Candidatos
-    urna.cadastrar_candidato(Candidato(10, "Ana Souza", "Chapa Renovação"))
-    urna.cadastrar_candidato(Candidato(20, "Bruno Lima", "Chapa União"))
-    urna.cadastrar_candidato(Candidato(30, "Carla Dias", "Chapa Avante"))
+    urna.cadastrar_candidato(Candidato(10, "André Silva", "Chapa Renovação"))
+    urna.cadastrar_candidato(Candidato(20, "Ryan Kaio", "Chapa União"))
+    urna.cadastrar_candidato(Candidato(30, "Guilherme Dias", "Chapa Avante"))
 
     # Eleitores (identificação -> nome)
     urna.cadastrar_eleitor(Eleitor("111", "João Pereira"))

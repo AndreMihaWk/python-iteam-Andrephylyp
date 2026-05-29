@@ -15,3 +15,16 @@
 #   print(maior_nota([7.5, 9.0, 6.0, 8.5]))
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+def maior_nota(notas):
+
+    maior = 0
+    
+    for nota in notas:
+        if nota > maior:
+
+            maior = nota  
+    return maior
+
+print(maior_nota([7.5, 9.0, 6.0, 8.5]))
+""" O problema estava na linha (maior == nota). Como  == é um operação logica de comparação la não estava
+ salvando  verifica se era True ou Falsa."""

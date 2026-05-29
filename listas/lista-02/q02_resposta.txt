@@ -15,4 +15,8 @@ Para cada cenário, indique a estrutura mais adequada (list/tuple/dict/set) e ju
 SUA RESPOSTA:
 
 (escreva aqui com suas próprias palavras)
-
+a) tupla
+b) set
+c) dict
+d) list
+e) tupla
