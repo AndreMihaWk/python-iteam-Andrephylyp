@@ -1,7 +1,7 @@
 # Explicação — Desafio 02 — Calculadora de IMC
 
-**Aluno:** _(seu nome)_
-**Data:** _(data)_
+**Aluno:** _(André Phylyp)_
+**Data:** _(26/05/2026)_
 
 ---
 
@@ -15,7 +15,7 @@ _Ele coleta o nome do usuário e peso em Kg e a altura em metros _
 
 > Por que é necessário usar `float()` ao capturar peso e altura com `input()`? O que aconteceria se usássemos `int()` para a altura `1.75`?
 
-_(Sua resposta aqui — use suas próprias palavras.)_
+_(quando usamos o 'float()' indicamos para 'input()' que receberemos todo os tipos de números REAIS. Se fosse utilizar o 'int()' para indicar Kilo ou Altura iria dar um 'ValueError' pelo o número inserido não ser um ponto flutuante)_
 
 ---
 

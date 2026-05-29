@@ -11,3 +11,22 @@
 # Explique em comentário: por que float para altura e não int?
 
 # ── Sua solução abaixo ──────────────────────────────────────────────────────
+
+
+nome = str(input("Digite aqui seu nome Completo: "))
+
+cpf = str(input("Digite aqui seu CPF: "))
+
+
+
+try:
+    ano = int(input("Digite aqui seu ano de nascimento: "))
+    altura = float(input("Digite aqui sua altura: "))
+
+    idade = 2026 - ano
+    print(f"Nome: {nome}")
+    print(f"CPF: {cpf}")
+    
+
+except ValueError:
+    print("Valor inválido para o ano de nascimento. Por favor, insira um número inteiro.")

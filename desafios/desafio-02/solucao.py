@@ -12,4 +12,5 @@ altura = float(input("Digite sua altura em metros: "))
 
 imc = peso/(altura**2)
 
+
 print(f"Olá {nomeusuario}, seu IMC é {imc:.2f}")
