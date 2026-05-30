@@ -7,7 +7,7 @@
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz.)_
+_(Fica pedindo um número, mostra a tabuada dele de 1 a 10, e encerra se o usuário digitar 0. Se digitar letra ou número negativo, avisa o erro e pede de novo.)_
 
 ---
 
@@ -15,7 +15,7 @@ _(Descreva em suas palavras o que cada parte do código faz.)_
 
 > Para esse exercício, por que `for` com `range()` é preferível ao `while`? Em que cenário o `while` seria a escolha certa?
 
-_(Sua resposta aqui — use suas próprias palavras.)_
+_(são exatamente 10 repetições conhecidas, o  for é feito para isso: percorrer uma sequência definida de forma limpa e direta Ninguém sabe quantas tabuadas o usuário vai querer gerar, então o while True com break é perfeito ali.)_
 
 ---
 

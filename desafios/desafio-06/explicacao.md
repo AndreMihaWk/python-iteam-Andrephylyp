@@ -7,7 +7,7 @@
 
 ## O que meu programa faz
 
-_(Descreva em suas palavras o que cada parte do código faz.)_
+_(Fica pedindo nome e cargo de colaboradores, salva cada um como dicionário numa lista, e ao digitar "sair" exibe todos os funcionários cadastrados.)_
 
 ---
 
@@ -15,7 +15,7 @@ _(Descreva em suas palavras o que cada parte do código faz.)_
 
 > Por que usamos um **dicionário** para cada funcionário e não uma lista com dois itens como `["Ricardo", "Dev"]`? Qual é a desvantagem de `funcionario[0]` comparado a `funcionario["nome"]`?
 
-_(Sua resposta aqui — use suas próprias palavras.)_
+_(Com dicionário, você acessa o dado pelo nome da informação funcionario["nome"])_
 
 ---
 
