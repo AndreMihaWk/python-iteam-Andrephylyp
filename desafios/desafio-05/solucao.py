@@ -1,6 +1,6 @@
 # Desafio 05 — Gerenciador de Compras
-# Aluno: (seu nome aqui)
-# Data:  (data de entrega)
+# Aluno: (André)
+# Data:  (29/05)
 
 # ── Escreva sua solução abaixo ──────────────────────────────────────────────
 produtos = []

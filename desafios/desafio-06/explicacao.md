@@ -1,7 +1,7 @@
 # Explicação — Desafio 06 — Bio-Cadastro
 
-**Aluno:** _(seu nome)_
-**Data:** _(data)_
+**Aluno:** _(André)_
+**Data:** _(29/05)_
 
 ---
 

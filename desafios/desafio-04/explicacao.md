@@ -1,7 +1,7 @@
 # Explicação — Desafio 04 — Tabuada Personalizada
 
-**Aluno:** _(seu nome)_
-**Data:** _(data)_
+**Aluno:** _(André Phylyp)_
+**Data:** _(27/05/2026)_
 
 ---
 
